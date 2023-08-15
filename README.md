@@ -26,6 +26,5 @@ A pseudolinguagem é uma forma intermediária de expressão entre a linguagem na
 Se você deseja contribuir para este repositório, fique à vontade para abrir uma *issue* ou enviar um *pull request*. Suas sugestões, correções ou novos materiais são muito bem-vindos! Siga estas etapas:
 
 1. Faça um *fork* deste repositório.
-2. Crie uma nova branch para suas modificações: `git checkout -b sua-nova-branch`
-3. Faça as modificações desejadas e adicione, comite e faça o *push* para a sua branch.
-4. Abra um *pull request* explicando as alterações que você fez e por que elas são necessárias. Certifique-se de fazer o *pull request* para a **mesma branch** em que fez suas modificações.
+2. Faça as modificações desejadas e adicione, comite e faça o *push*.
+3. Abra um *pull request* explicando as alterações que você fez e por que elas são necessárias. Certifique-se de fazer o *pull request* para a **mesma branch** em que fez suas modificações.
