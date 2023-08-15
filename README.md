@@ -9,7 +9,9 @@ Neste repositório, guardamos recursos relacionados às aulas de programação. 
 # Branch's
 
 # Fluxogramas e Pseudolinguagens: 
+
 Este branch contém o conteúdo das primeiras aulas, incluindo algoritmos, exercícios e imagens.
 
 # Linguagem C: 
+
 Este branch abordará as aulas em que a linguagem C for utilizada, sendo o foco principal da matéria. 
