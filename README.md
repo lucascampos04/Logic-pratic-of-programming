@@ -23,6 +23,7 @@ Neste repositório, você encontrará:
 ## Recursos de Aprendizado
 
  [Piedro Martins De Oliveira](https://youtu.be/2w8GYzBjNj8)
+ 
  [Documentação da linguagem C da Microsoft](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160)
 
 ## Como Contribuir
