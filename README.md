@@ -7,6 +7,8 @@ Um fluxograma para programação é uma ferramenta visual que auxilia na represe
 ## Sites
 
 [Draw.io](https://app.diagrams.net)
+
 [Lucidchart](https://www.lucidchart.com/pages/pt)
+
 [Gliffy](https://www.gliffy.com)
 
