@@ -6,6 +6,14 @@ Bem-vindo ao repositório de estudos para a disciplina de Linguagem C. Este espa
 
 A Linguagem C é uma linguagem de programação versátil e poderosa amplamente utilizada para desenvolvimento de sistemas, aplicativos e até mesmo sistemas operacionais. Com sua sintaxe elegante e recursos eficientes, ela se tornou uma base essencial para qualquer programador.
 
+### MinGW
+
+Para começar a programar em C, você precisará configurar um ambiente de desenvolvimento. Recomendamos o uso do MinGW (Minimalist GNU for Windows), que é um conjunto de ferramentas que inclui compilador e outras utilidades necessárias para compilar e executar programas C no Windows.
+
+[Download MinGw](https://sourceforge.net/projects/mingw-w64/)
+<br>
+[Como instalar](https://youtu.be/h00ARz3uYik)
+
 ## Conteúdo
 
 Neste repositório, você encontrará:
