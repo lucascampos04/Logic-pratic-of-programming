@@ -1,4 +1,4 @@
-## Logica e pratic de programação
+## Logica e pratica de programação
 
 Materias: ALGORITMOS E PRÁTICAS DE PROGRAMAÇÃO
 
