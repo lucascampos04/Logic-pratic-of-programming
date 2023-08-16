@@ -37,7 +37,5 @@ int main()
     printf("|   %%e      | Notação científica                     |\n");
     printf("|-----------------------------------------------------|\n");
 
-
-
     return 0;
 }
