@@ -1,6 +1,6 @@
 ## Logica e pratica de programação
 
-Neste repositório, guardamos recursos relacionados às aulas de programação. Aqui você encontrará anotações, códigos e exemplos que usamos em aula, para facilitar sua revisão sempre que precisar.
+Neste repositório, guardamos recursos relacionados às aulas de programação com foco na linguagem C. Aqui você encontrará anotações, códigos e exemplos específicos dessa linguagem que usamos em aula, para facilitar sua revisão sempre que precisar.
 
 # Navegação
 
