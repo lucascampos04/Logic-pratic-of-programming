@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da87427b-7569-43f7-9e86-178cb77a146e" name="Changes" comment="" />
+    <list default="true" id="da87427b-7569-43f7-9e86-178cb77a146e" name="Changes" comment="Conversor de metros para centimetros">
+      <change afterPath="$PROJECT_DIR$/algoritmos/salarioFuncionario.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Logic-pratic-of-programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Logic-pratic-of-programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,29 +23,120 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Fluxogramas-pseudolinguagens" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Linguagem-C" />
+                    <option name="lastUsedInstant" value="1692212711" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="Fluxogramas-pseudolinguagens" />
+                    <option name="lastUsedInstant" value="1692212691" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2U221YWWAS82v2ufocTUO7sgDNa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Lucas/Documents/Github/Logic-pratic-of-programming",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Linguagem-C&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lucas/Documents/Github/Logic-pratic-of-programming&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas\Documents\Github\Logic-pratic-of-programming\Fluxograma" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.salarioFuncionario.c">
+    <configuration name="ConversorCmParaMetros.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Logic-pratic-of-programming" TARGET_NAME="ConversorCmParaMetros.c" CONFIG_NAME="ConversorCmParaMetros.c">
+      <option name="sourceFile" value="algoritmos\ConversorCmParaMetros.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConversorDeMetrosParaCm.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Logic-pratic-of-programming" TARGET_NAME="ConversorDeMetrosParaCm.c" CONFIG_NAME="ConversorDeMetrosParaCm.c">
+      <option name="sourceFile" value="algoritmos\ConversorDeMetrosParaCm.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiposDeVariaveis.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Logic-pratic-of-programming" TARGET_NAME="TiposDeVariaveis.c" CONFIG_NAME="TiposDeVariaveis.c">
+      <option name="sourceFile" value="Tipos de Variaveis\TiposDeVariaveis.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="salarioFuncionario.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Logic-pratic-of-programming" TARGET_NAME="salarioFuncionario.c" CONFIG_NAME="salarioFuncionario.c">
+      <option name="sourceFile" value="algoritmos\salarioFuncionario.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="soma.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Logic-pratic-of-programming" TARGET_NAME="soma.c" CONFIG_NAME="soma.c">
+      <option name="sourceFile" value="algoritmos\soma.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.salarioFuncionario.c" />
+        <item itemvalue="C/C++ File.ConversorDeMetrosParaCm.c" />
+        <item itemvalue="C/C++ File.ConversorCmParaMetros.c" />
+        <item itemvalue="C/C++ File.soma.c" />
+        <item itemvalue="C/C++ File.TiposDeVariaveis.c" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,10 +146,57 @@
       <option name="presentableId" value="Default" />
       <updated>1692123140750</updated>
       <workItem from="1692123141943" duration="44000" />
+      <workItem from="1692138443948" duration="681000" />
+      <workItem from="1692189103614" duration="1765000" />
+      <workItem from="1692196483291" duration="1250000" />
+      <workItem from="1692204713475" duration="2711000" />
+      <workItem from="1692214917328" duration="1929000" />
+      <workItem from="1692220564705" duration="944000" />
+      <workItem from="1692235304429" duration="2949000" />
     </task>
+    <task id="LOCAL-00001" summary="Algoritmo de soma">
+      <option name="closed" value="true" />
+      <created>1692212571201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692212571201</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tipos de variaveis">
+      <option name="closed" value="true" />
+      <created>1692212588845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692212588845</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Conversor de centimetros para metros">
+      <option name="closed" value="true" />
+      <created>1692216985819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692216985819</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Conversor de metros para centimetros">
+      <option name="closed" value="true" />
+      <created>1692236003565</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692236003565</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Algoritmo de soma" />
+    <MESSAGE value="Tipos de variaveis" />
+    <MESSAGE value="Conversor de centimetros para metros" />
+    <MESSAGE value="Conversor de metros para centimetros" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conversor de metros para centimetros" />
   </component>
 </project>
