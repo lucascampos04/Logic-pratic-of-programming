@@ -13,12 +13,6 @@ Para começar a programar em C, você precisará configurar um ambiente de desen
 [Download MinGw](https://sourceforge.net/projects/mingw-w64/)
 <br>
 [Como instalar](https://youtu.be/h00ARz3uYik)
-
-## Conteúdo
-
-Neste repositório, você encontrará:
-
-  **Anotações das Aulas**: Anotações e resumos dos tópicos abordados em sala de aula.
   
 ## Como Usar este Repositório
 
