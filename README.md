@@ -8,7 +8,7 @@ A Linguagem C é uma linguagem de programação versátil e poderosa amplamente 
 
 ### MinGW
 
-Para começar a programar em C, você precisará configurar um ambiente de desenvolvimento. Recomendamos o uso do MinGW (Minimalist GNU for Windows), que é um conjunto de ferramentas que inclui compilador e outras utilidades necessárias para compilar e executar programas C no Windows.
+Para começar a programar em C, você precisará configurar um ambiente de desenvolvimento. Recomendo o uso do MinGW (Minimalist GNU for Windows), que é um conjunto de ferramentas que inclui compilador e outras utilidades necessárias para compilar e executar programas C no Windows.
 
 [Download MinGw](https://sourceforge.net/projects/mingw-w64/)
 <br>
