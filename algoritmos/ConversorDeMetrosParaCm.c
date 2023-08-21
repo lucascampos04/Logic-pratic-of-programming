@@ -5,7 +5,6 @@ int main(){
     double metros = 0.0;
 
     printf("Conversor de metros para centimetros\\n");
-    printf("Os metros só podem estar no intervalo de 1 a 9\n");
     printf("-------------------------------------------------\n");
     printf("Metros: ");
     scanf("%lf", &metros);
