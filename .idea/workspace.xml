@@ -9,12 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da87427b-7569-43f7-9e86-178cb77a146e" name="Changes" comment="workspace">
-      <change afterPath="$PROJECT_DIR$/algoritmos/CelsiusParafahrenheit.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos/SalarioAumento.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Logic-pratic-of-programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Logic-pratic-of-programming.iml" afterDir="false" />
+    <list default="true" id="da87427b-7569-43f7-9e86-178cb77a146e" name="Changes" comment="Aplicando aumento em salario">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoritmos/ConversorDeMetrosParaCm.c" beforeDir="false" afterPath="$PROJECT_DIR$/algoritmos/ConversorDeMetrosParaCm.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,15 +94,9 @@
       <recent name="C:\Users\Lucas\Documents\Github\Logic-pratic-of-programming\Fluxograma" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.CelsiusParafahrenheit.c">
+  <component name="RunManager" selected="C/C++ File.soma.c">
     <configuration name="CelsiusParafahrenheit.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Logic-pratic-of-programming" TARGET_NAME="CelsiusParafahrenheit.c" CONFIG_NAME="CelsiusParafahrenheit.c">
       <option name="sourceFile" value="algoritmos\CelsiusParafahrenheit.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConversorCmParaMetros.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Logic-pratic-of-programming" TARGET_NAME="ConversorCmParaMetros.c" CONFIG_NAME="ConversorCmParaMetros.c">
-      <option name="sourceFile" value="algoritmos\ConversorCmParaMetros.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -129,13 +119,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="soma.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Logic-pratic-of-programming" TARGET_NAME="soma.c" CONFIG_NAME="soma.c">
+      <option name="sourceFile" value="algoritmos\soma.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.soma.c" />
         <item itemvalue="C/C++ File.CelsiusParafahrenheit.c" />
         <item itemvalue="C/C++ File.SalarioAumento.cpp" />
         <item itemvalue="C/C++ File.salarioFuncionario.c" />
         <item itemvalue="C/C++ File.ConversorDeMetrosParaCm.c" />
-        <item itemvalue="C/C++ File.ConversorCmParaMetros.c" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +151,8 @@
       <workItem from="1692214917328" duration="1929000" />
       <workItem from="1692220564705" duration="944000" />
       <workItem from="1692235304429" duration="3511000" />
-      <workItem from="1692638040760" duration="1437000" />
+      <workItem from="1692638040760" duration="2213000" />
+      <workItem from="1692720400325" duration="1207000" />
     </task>
     <task id="LOCAL-00001" summary="Algoritmo de soma">
       <option name="closed" value="true" />
@@ -205,7 +202,31 @@
       <option name="project" value="LOCAL" />
       <updated>1692238784220</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Conversor de Graus Celsius para fahrenheit">
+      <option name="closed" value="true" />
+      <created>1692639573315</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692639573315</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Conversor de Metros para centimetros">
+      <option name="closed" value="true" />
+      <created>1692639604983</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692639604983</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Aplicando aumento em salario">
+      <option name="closed" value="true" />
+      <created>1692639637513</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692639637513</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +239,9 @@
     <MESSAGE value="Conversor de metros para centimetros" />
     <MESSAGE value="Algoritmo que organiza os funcionarios no sistema" />
     <MESSAGE value="workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
+    <MESSAGE value="Conversor de Graus Celsius para fahrenheit" />
+    <MESSAGE value="Conversor de Metros para centimetros" />
+    <MESSAGE value="Aplicando aumento em salario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aplicando aumento em salario" />
   </component>
 </project>
