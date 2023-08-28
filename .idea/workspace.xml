@@ -9,7 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da87427b-7569-43f7-9e86-178cb77a146e" name="Changes" comment="Aplicando aumento em salario">
+    <list default="true" id="da87427b-7569-43f7-9e86-178cb77a146e" name="Changes" comment="workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,7 +152,8 @@
       <workItem from="1692220564705" duration="944000" />
       <workItem from="1692235304429" duration="3511000" />
       <workItem from="1692638040760" duration="2213000" />
-      <workItem from="1692720400325" duration="1207000" />
+      <workItem from="1692720400325" duration="1747000" />
+      <workItem from="1692788379521" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="Algoritmo de soma">
       <option name="closed" value="true" />
@@ -226,7 +227,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692639637513</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Alterando o &quot;%&quot; das variaveis para %d e %i">
+      <option name="closed" value="true" />
+      <created>1692730162530</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692730162530</updated>
+    </task>
+    <task id="LOCAL-00011" summary="workspace.xml">
+      <option name="closed" value="true" />
+      <created>1692730178925</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692730178925</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +259,8 @@
     <MESSAGE value="Conversor de Graus Celsius para fahrenheit" />
     <MESSAGE value="Conversor de Metros para centimetros" />
     <MESSAGE value="Aplicando aumento em salario" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aplicando aumento em salario" />
+    <MESSAGE value="Alterando o &quot;%&quot; das variaveis para %d e %i" />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
 </project>
