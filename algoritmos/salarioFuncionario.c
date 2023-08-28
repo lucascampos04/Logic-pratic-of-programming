@@ -1,65 +1,40 @@
 #include <stdio.h>
-
-#define MAX_FUNCIONARIOS 100
-
-// Função para inserir informações de um funcionário em um array
-int inserirFuncionario(char nomes[][50], char cargo[][50], double salario[], int numFuncionarios){
-    if (numFuncionarios > MAX_FUNCIONARIOS){
-        printf("Limite de funcionarios alcançados.\n");
-        return numFuncionarios;
-    }
-
-    printf("Digite o nome do funcionario: ");
-    scanf("%s", nomes[numFuncionarios]);
-
-    printf("Digite o cargo do funcionario: ");
-    scanf("%s", cargo[numFuncionarios]);
-
-    printf("Digite o salario do funcionario: ");
-    scanf("%lf", &salario[numFuncionarios]);
-
-    return numFuncionarios + 1;
-}
-
-void mostrarFuncionarios(char nomes[][50], char cargos[][20], double salarios[], int numFuncionarios){
-    printf("Funcionarios:\n");
-    for(int i = 0; i < numFuncionarios; i++){
-        printf("Nome: %s, Cargo: %s, Salario: $.2lf\n", nomes[i], cargos[i], salarios[i]);
-    }
-}
+#include <stdlib.h>
+#include <locale.h>
 
 int main(){
-    char nomes[MAX_FUNCIONARIOS][50]; // Array para armazenar os nomes dos funcionários
-    char cargos[MAX_FUNCIONARIOS][20]; // Array para armazenar os cargos dos funcionários
-    char salarios[MAX_FUNCIONARIOS]; // Array para armazenar os salarios dos funcionários
-    int numFuncionarios = 0; // Contador para o número de funcionários inseridos
+    setlocale(LC_ALL, "Portuguese");
+    char nameOffice[50];
+    float salary;
+    int optionsoffice = 0;
+    float newSallaryBonusApplied;
 
-    int opcao;
+    printf("Nome Funcionario : ");
+    scanf("%s", nameOffice);
 
-    do {
-        printf("Menu:\n");
-        printf("1. Inserir funcionário\n");
-        printf("2. Mostrar funcionários\n");
-        printf("0. Sair\n");
-        printf("Escolha uma opção: ");
-        scanf("%d", &opcao);
+    printf("Salario: ");
+    scanf("%f", &salary);
 
-        switch (opcao) {
-            case 1:
-                // Chamar a função inserirFuncionario para adicionar um funcionário ao sistema
-                numFuncionarios = inserirFuncionario(nomes, cargos, salarios, numFuncionarios);
-                break;
-            case 2:
-                // Chamar a função mostrarFuncionarios para exibir as informações dos funcionários
-                mostrarFuncionarios(nomes, cargos, salarios, numFuncionarios);
-                break;
-            case 0:
-                printf("Saindo do programa.\n");
-                break;
-            default:
-                printf("Opção invalida.\n");
-        }
-    } while (opcao != 0); // Continuar o loop até que o usuário escolha sair (opção 0)
+    printf("%s, tem os seguintes bonus disponiveis:\n", nameOffice);
+    printf("[1] - Aumento de 10%%\n");
+    printf("[2] - Se promovido a Senior\n");
+
+    scanf("%d", &optionsoffice);
+
+    switch (optionsoffice) {
+        case 1:
+            newSallaryBonusApplied = salary + (salary * 0.10);
+            printf("Novo salario : %.2f\n", newSallaryBonusApplied);
+            break;
+        case 2:
+            printf("%s foi promovido de pleno para senior.\n", nameOffice);
+            break;
+        default:
+            printf("Opção inválida.\n");
+            break;
+    }
+
+    system("pause");
 
     return 0;
 }
