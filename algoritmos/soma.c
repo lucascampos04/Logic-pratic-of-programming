@@ -1,8 +1,13 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
 
 int main(){
+    setlocale(LC_ALL, "Portuguese");
+
     int n1;
     int n2;
+
 
     printf("Numero 1: \n");
     scanf("%d", &n1);
@@ -14,5 +19,6 @@ int main(){
 
     printf("O resultado da soma é: %d", soma);
 
+    system("pause");
     return 0;
 }
