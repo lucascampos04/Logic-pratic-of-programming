@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="da87427b-7569-43f7-9e86-178cb77a146e" name="Changes" comment="workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritmos/salarioFuncionario.c" beforeDir="false" afterPath="$PROJECT_DIR$/algoritmos/salarioFuncionario.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +95,7 @@
       <recent name="C:\Users\Lucas\Documents\Github\Logic-pratic-of-programming\Fluxograma" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.soma.c">
+  <component name="RunManager" selected="C/C++ File.salarioFuncionario.c">
     <configuration name="CelsiusParafahrenheit.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Logic-pratic-of-programming" TARGET_NAME="CelsiusParafahrenheit.c" CONFIG_NAME="CelsiusParafahrenheit.c">
       <option name="sourceFile" value="algoritmos\CelsiusParafahrenheit.c" />
       <method v="2">
@@ -127,10 +128,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.salarioFuncionario.c" />
         <item itemvalue="C/C++ File.soma.c" />
         <item itemvalue="C/C++ File.CelsiusParafahrenheit.c" />
         <item itemvalue="C/C++ File.SalarioAumento.cpp" />
-        <item itemvalue="C/C++ File.salarioFuncionario.c" />
         <item itemvalue="C/C++ File.ConversorDeMetrosParaCm.c" />
       </list>
     </recent_temporary>
@@ -154,6 +155,8 @@
       <workItem from="1692638040760" duration="2213000" />
       <workItem from="1692720400325" duration="1747000" />
       <workItem from="1692788379521" duration="97000" />
+      <workItem from="1693241958312" duration="1297000" />
+      <workItem from="1693250250474" duration="1602000" />
     </task>
     <task id="LOCAL-00001" summary="Algoritmo de soma">
       <option name="closed" value="true" />
@@ -243,7 +246,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692730178925</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Adicionando duas novas bibliotecas :  &#10;#include&lt;stdlib.h&gt;&#10;#include &lt;locale.h&gt;">
+      <option name="closed" value="true" />
+      <created>1693242310358</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693242310358</updated>
+    </task>
+    <task id="LOCAL-00013" summary="workspace.xml">
+      <option name="closed" value="true" />
+      <created>1693242329472</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693242329472</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +279,7 @@
     <MESSAGE value="Conversor de Metros para centimetros" />
     <MESSAGE value="Aplicando aumento em salario" />
     <MESSAGE value="Alterando o &quot;%&quot; das variaveis para %d e %i" />
+    <MESSAGE value="Adicionando duas novas bibliotecas :  &#10;#include&lt;stdlib.h&gt;&#10;#include &lt;locale.h&gt;" />
     <MESSAGE value="workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
