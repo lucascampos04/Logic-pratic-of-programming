@@ -9,15 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da87427b-7569-43f7-9e86-178cb77a146e" name="Changes" comment="workspace.xml">
-      <change afterPath="$PROJECT_DIR$/Condicionais/elseif.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Condicionais/ifElse.c" afterDir="false" />
+    <list default="true" id="da87427b-7569-43f7-9e86-178cb77a146e" name="Changes" comment="Akinator">
+      <change afterPath="$PROJECT_DIR$/algoritmos/Calculadora.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akinator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akinator/.idea/Akinator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akinator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akinator/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/algoritmos/Akinator.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akinator/main.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,9 +97,9 @@
       <recent name="C:\Users\Lucas\Documents\Github\Logic-pratic-of-programming\Fluxograma" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.elseif.c">
-    <configuration name="CelsiusParafahrenheit.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Logic-pratic-of-programming" TARGET_NAME="CelsiusParafahrenheit.c" CONFIG_NAME="CelsiusParafahrenheit.c">
-      <option name="sourceFile" value="algoritmos\CelsiusParafahrenheit.c" />
+  <component name="RunManager" selected="C/C++ File.Calculadora.c">
+    <configuration name="Calculadora.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Logic-pratic-of-programming" TARGET_NAME="Calculadora.c" CONFIG_NAME="Calculadora.c">
+      <option name="sourceFile" value="algoritmos\Calculadora.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -136,7 +130,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.CelsiusParafahrenheit.c" />
+      <item itemvalue="C/C++ File.Calculadora.c" />
       <item itemvalue="C/C++ File.elseif.c" />
       <item itemvalue="C/C++ File.NotasBimestrais.c" />
       <item itemvalue="C/C++ File.salarioFuncionario.c" />
@@ -144,11 +138,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Calculadora.c" />
         <item itemvalue="C/C++ File.elseif.c" />
         <item itemvalue="C/C++ File.NotasBimestrais.c" />
         <item itemvalue="C/C++ File.salarioFuncionario.c" />
         <item itemvalue="C/C++ File.soma.c" />
-        <item itemvalue="C/C++ File.CelsiusParafahrenheit.c" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +289,39 @@
       <option name="project" value="LOCAL" />
       <updated>1693252006455</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Uso do if else">
+      <option name="closed" value="true" />
+      <created>1696358464537</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696358464537</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Uso do Switch case">
+      <option name="closed" value="true" />
+      <created>1696358497193</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1696358497193</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Uso do else if">
+      <option name="closed" value="true" />
+      <created>1696358589097</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696358589097</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Akinator">
+      <option name="closed" value="true" />
+      <created>1696358598137</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696358598137</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +341,11 @@
     <MESSAGE value="Adicionando duas novas bibliotecas :  &#10;#include&lt;stdlib.h&gt;&#10;#include &lt;locale.h&gt;" />
     <MESSAGE value="Algoritmo de funcionarios" />
     <MESSAGE value="workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
+    <MESSAGE value="Uso do if else" />
+    <MESSAGE value="Uso do Switch case" />
+    <MESSAGE value="Uso do else if" />
+    <MESSAGE value="Akinator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Akinator" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
